@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir -p /bazar/Bureau/secret
+mkdir -p /bazar/Dowload
+touch /bazar/Bureau/secret/journal_intime.txt
